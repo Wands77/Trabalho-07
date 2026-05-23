@@ -1,6 +1,6 @@
 # Avaliação de Desempenho e Otimização de Código com Locust
 
-Este repositório contém a implementação prática para a medição, relato e otimização do desempenho básico de uma API REST monolítica desenvolvida com Python e FastAPI, utilizando o Locust como ferramenta para testes de carga e estresse[cite: 1, 3].
+Este repositório contém a implementação prática para a medição, relato e otimização do desempenho básico de uma API REST monolítica desenvolvida com Python e FastAPI, utilizando o Locust como ferramenta para testes de carga e estresse.
 
 ## 📋 Pré-requisitos e Dependências
 
