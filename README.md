@@ -29,7 +29,7 @@ python -m uvicorn main:app --host 127.0.0.1 --port 8000
 Em um segundo terminal, execute o Locust apontando para o arquivo de testes do plano:
 
 ```bash
-python locust -f locustfile.py --host http://127.0.0.1:8000
+python -m locust -f locustfile.py --host http://127.0.0.1:8000
 ```
 
 ## ⚙️ Configuração do Mix de Carga (Workload Mix)
