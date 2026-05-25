@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,POST /api/recurso,HTTPError('400 Client Error: Bad Request for url: POST /api/recurso'),2,2026-05-25T19:05:51Z,2026-05-25T19:06:09Z

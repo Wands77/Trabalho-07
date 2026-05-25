@@ -1,0 +1,6 @@
+Métrica Agregada,Fase 1 (Baseline),Fase 2 (Otimizado),Impacto / Melhoria
+Tempo Médio de Resposta (ms),410.95,9.12,-97.78% (Redução)
+Tempo Máximo de Resposta (ms),3352.95,100.75,-97.00% (Redução)
+Vazão Média (Throughput - req/s),26.12,33.03,+26.45% (Aumento)
+Total de Requisições (Média),6308.4,7935.8,+25.80% (Aumento)
+Média de Falhas por Rodada,1.2,1.6,+33.33% (Variação)
